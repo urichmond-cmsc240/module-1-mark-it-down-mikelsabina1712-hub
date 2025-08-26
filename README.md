@@ -2,9 +2,19 @@
 [REPLACE ME!] 
 
 # Mikel Sabina Bazaco
-**eid:54269598**
-**Username: mikelsabina1712-hub**
-*he/him*
-*2026*
+![Profile Photo](IMG_0140-1.jpg)
+**eid:54269598 |**
+**Username: mikelsabina1712-hub |**
+*Pronouns: he/him |*
+*Class of 2026 |*
 *Commputer Science*
-![alt text](cat.gif)
+
+---
+
+MY HOBBIES:
+- Soccer
+- Gym
+- Music
+
+[My favorite song](https://www.youtube.com/watch?v=wOjzo02Tmck)
+
