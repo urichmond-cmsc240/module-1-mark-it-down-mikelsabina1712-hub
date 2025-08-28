@@ -18,4 +18,4 @@ MY HOBBIES:
 
 [My favorite song](https://www.youtube.com/watch?v=wOjzo02Tmck)
 
-[![CARS](https://share.google/images/hRqfgHh64V7z8Rg1L)](https://www.imdb.com/title/tt0317219/)
+[![CARS](pp_cars_homepage_herobanner_mobile_v5_e05d00f1_a743a7cd.jpeg)](https://www.imdb.com/title/tt0317219/)
